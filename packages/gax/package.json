@@ -37,7 +37,7 @@
     "execa": "^5.0.0",
     "glob": "10.5.0",
     "google-proto-files": "5.0.1",
-    "gts": "^6.0.2",
+    "gts": "^7.0.0",
     "jackspeak": "^3.0.2",
     "jsdoc": "^4.0.4",
     "jsdoc-fresh": "^5.0.0",
